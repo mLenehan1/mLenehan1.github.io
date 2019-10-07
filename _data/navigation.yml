@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Projects
+  link: /project.html
+- name: Masters Modules
+  link: masters.html
+- name: Undergraduate Assignments
+  link: undergrad.html
+- name: CV
+  link: mlenehanCV.html
