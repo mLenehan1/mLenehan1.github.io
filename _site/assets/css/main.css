@@ -8,6 +8,15 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* 
+	New Colourscheme
+	#1E1E1E - Black
+	#C9C8CE - Light Grey
+	#575658 - Dark Grey
+	#72090C - Dark Red
+	#954246 - Light Red
+*/
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -88,7 +97,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #2e3842;
+		background: #575658; /*#2e3842; Original */
 	}
 	
 
@@ -2489,7 +2498,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ed4933;
+			background-color: #954246; /*#ed4933; Original*/
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2606,7 +2615,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #C9C8CE;/*#00ffcc;Original*/
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2819,7 +2828,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6; /*#72090C*/
+			background-color: #72090C; /*#21b2a6; Original*/
 			color: #c8ece9;
 		}
 
@@ -2982,7 +2991,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #954246;/*#505393; Original*/
 			color: #d3d4e4;
 		}
 
@@ -3353,7 +3362,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #954246; /*#21b2a6; Original */
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
